@@ -1,0 +1,16 @@
+{
+    "name": "weida/message-robot-core",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Weida\\MessageRobotCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sgenmi",
+            "email": "sgenmi@gmail.com"
+        }
+    ],
+    "require": {}
+}
